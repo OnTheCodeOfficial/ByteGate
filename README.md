@@ -70,13 +70,13 @@ The port listener timeout default is set to 120 seconds
 
 ## Support
 
-`How to get the role ID?` : 
+> **How to get the role ID?** : 
 https://www.youtube.com/watch?v=Q8eOA9ZYyGw
 
-`How to get the channel ID ?` : 
+> **How to get the channel ID ?** : 
 https://www.youtube.com/watch?v=YjiQ7CajAgg
 
-`How to edit & modify json file ?` : 
+> **How to edit & modify json file ?** : 
 https://www.youtube.com/watch?v=iiADhChRriM
 
 ## If you downloaded this project please rate us.
