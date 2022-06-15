@@ -2,14 +2,18 @@
 
 ![logo_1_31](https://user-images.githubusercontent.com/85664683/173884413-701a006b-122b-4b45-a3ca-d16dc353bcea.png)
 
-ByteGate is the world first github public reverse shell discord bot release that can perform command through discord server.
+**ByteGate** is the world first github public reverse shell discord bot release that can perform command through discord server. Written in Py3 and free to use developed by me and hope you guys **CTF** community enjoy the project ;) and rate us so i will release more project in the future
+
 
 ## Commands
 
-| Command  | Argument | Description |
-| ------------- | ------------- | ------------- |
-| $lvnp  | [port] [private or public]  | with no argument it will listen on default port and private commander|
-| $clean  | [number]  | with no argument it will clean 100 messages on specific channel|
+| Command  | Argument |
+| ------------- | ------------- |
+| $lvnp  | [port] [private or public]  |
+| $clean  | [number]  |
+| $bot_ip  | None  |
+
+## Example:
 
 `$lvnp` --> *Start listener with default port on private user*
 
@@ -39,20 +43,26 @@ ByteGate is the world first github public reverse shell discord bot release that
 
 
 
-#### Review:
+## Review:
 
 https://user-images.githubusercontent.com/85664683/173884542-6083c44e-f5fe-4d50-bb77-a111cf17ddd3.mp4
 
-#### Config.json:
+## Config.json:
 ```
 Required the Channel-ID can be 1 or more channel the channel ID for config the bot react to specific channel.
 Required the Role-ID can be 1 or more role. Only the user that have the specify role are allowed to use bot.
 ```
 ```
-Default port is set to 25565 for legit minecraft reverse-shell that i created but you can chage it any port you wish.
+Default port is set to 25564 for legit minecraft reverse-shell that i created but you can chage it any port you wish.
 The delay between command default is set to 2 seconds
 The port listener timeout default is set to 120 seconds
 ```
 ![config](https://user-images.githubusercontent.com/85664683/173884739-9e1e1ca4-fe54-47e9-a97f-c5107bef60be.png)
+
+## If you downloaded this project please rate us.
+
+![Rate-Us-Transparent-Images-PNG](https://user-images.githubusercontent.com/85664683/173891419-c3169cd2-69a4-4dd6-9a24-5c16103b9d24.png)
+
+
 
 
