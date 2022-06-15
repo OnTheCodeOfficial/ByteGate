@@ -25,7 +25,7 @@
 
 [ Anyone with whitelist role will be able to perform command on the reverse shell ] while perform shell as public
 
-`$bot_ip` --> To get the host IPv4 information
+`$bot_ip` --> To get the bot-host IPv4 information
 
 `$clean` --> Clean the channel message default set to 100 without argument
 
