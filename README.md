@@ -2,7 +2,7 @@
 
 ![logo_1_31](https://user-images.githubusercontent.com/85664683/173884413-701a006b-122b-4b45-a3ca-d16dc353bcea.png)
 
-**ByteGate** is the world first github public reverse shell discord bot release that can perform command through discord server. Written in Py3 and free to use developed by me and hope you guys **CTF** community enjoy the project ;) and rate us so i will release more project in the future
+**ByteGate** is the world first github public reverse shell discord bot release that can perform command through discord server. Written in Py3 and free to use developed by me and hope you guys **CTF** community enjoy this project ;) and rate us so i will release more project in the future
 
 
 ## Commands
