@@ -52,12 +52,6 @@ The `$lvnp` and `$clean` can perform with no argument it will use default settin
 
 `bg.clear` --> while reverse shell connected use this to clear the channel message
 
-
-
-
-
-
-
 ## Review:
 
 https://user-images.githubusercontent.com/85664683/173884542-6083c44e-f5fe-4d50-bb77-a111cf17ddd3.mp4
@@ -73,6 +67,17 @@ The delay between command default is set to 2 seconds
 The port listener timeout default is set to 120 seconds
 ```
 ![config](https://user-images.githubusercontent.com/85664683/173884739-9e1e1ca4-fe54-47e9-a97f-c5107bef60be.png)
+
+## Support
+
+`How to get the role ID?` : 
+https://www.youtube.com/watch?v=Q8eOA9ZYyGw
+
+`How to get the channel ID ?` : 
+https://www.youtube.com/watch?v=YjiQ7CajAgg
+
+`How to edit & modify json file ?` : 
+https://www.youtube.com/watch?v=iiADhChRriM
 
 ## If you downloaded this project please rate us.
 
