@@ -7,6 +7,7 @@
 ## Install and use:
 To install libraries
 ```
+git clone https://github.com/OnTheCodeOfficial/ByteGate.git
 cd ByteGate/
 pip install -i requirements.txt
 ```
