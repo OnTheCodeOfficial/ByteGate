@@ -1,0 +1,8 @@
+{
+    "Allow_to_perform_command_on_channel_ID": [985539312672206868, 968220450893230130],
+    "TOKEN": "YOUR TOKEN HERE",
+    "Default_port": 25564,
+    "Delay_between_command" : 2,
+    "Listener_Timeout" : 120,
+    "Whitelist_role_id_interger": [968222257526767667,968222324912435310]
+}
