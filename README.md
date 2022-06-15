@@ -27,7 +27,7 @@ To run
 | $clean  | [number]  |
 | $bot_ip  | None  |
 
-The `$lvnp` and `$clean` can perform with no argument it will use default setting
+Both `$lvnp` and `$clean` commands can perform with no argument it will use default setting
 
 ## Example:
 
