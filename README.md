@@ -23,7 +23,7 @@ ByteGate is the world first github public reverse shell discord bot release that
 
 `$bot_ip` --> To get the host IPv4 information
 
-`$clean -->` Clean the channel message
+`$clean` --> Clean the channel message default set to 100 without argument
 
 `$clean 200` --> remove 200 messages from the current channel
 
