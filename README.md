@@ -4,14 +4,29 @@
 
 **ByteGate** is the world first github public reverse shell discord bot release that can perform command through discord server. Written in Py3 and free to use developed by me and hope you guys **CTF** community enjoy this project ;) and rate us so i will release more project in the future
 
+## Install and use:
+To install libraries
+```
+cd ByteGate/
+pip install -i requirements.txt
+```
+And then setup your **config.json** file
 
-## Commands
+To run
+
+- **Windows** : `python ByteGate.py`
+- **Linux** : `python3 ByteGate.py`
+
+
+## Bot commands
 
 | Command  | Argument |
 | ------------- | ------------- |
 | $lvnp  | [port] [private or public]  |
 | $clean  | [number]  |
 | $bot_ip  | None  |
+
+The `$lvnp` and `$clean` can perform with no argument it will use default setting
 
 ## Example:
 
