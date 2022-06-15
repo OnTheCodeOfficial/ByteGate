@@ -19,7 +19,7 @@ ByteGate is the world first github public reverse shell discord bot release that
 
 `$lvnp 1234 public` --> *Start listener with port 1234 on public user 
 
-[ Anyone with whitelist role will be able to perform command on the reverse shell ] while public
+[ Anyone with whitelist role will be able to perform command on the reverse shell ] while perform shell as public
 
 `$bot_ip` --> To get the host IPv4 information
 
